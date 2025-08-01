@@ -44,13 +44,13 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://drive.google.com/file/d/1XmZiiMhMt4yltUZrQvNIcx1p_qL82qXv/view?usp=sharing)
+[[Screenshot1](https://drive.google.com/file/d/1XmZiiMhMt4yltUZrQvNIcx1p_qL82qXv/view?usp=sharing)]
 *Ask Potato: Overthinking answers in action*
 
-![Screenshot2](https://drive.google.com/file/d/15U3LWpB8AFZ-NWsDGJ2A2VG1oivMrMN5/view?usp=drive_link)
+[[Screenshot2](https://drive.google.com/file/d/15U3LWpB8AFZ-NWsDGJ2A2VG1oivMrMN5/view?usp=drive_link)]
 *Cursor dodge mode: potato refusing interaction like a true introvert*
 
-![Screenshot3](https://drive.google.com/file/d/19J3Z3ZLHnT5wjli91EGWexvIhsmyYssA/view?usp=drive_link)
+[[Screenshot3](https://drive.google.com/file/d/19J3Z3ZLHnT5wjli91EGWexvIhsmyYssA/view?usp=drive_link)]
 *“Roast Me” feature — emotional sabotage on demand*
 
 ## 📊 Diagrams
@@ -69,7 +69,7 @@ This is a fully web-based emotional experience. No physical potatoes were harmed
 ![Circuit]
 *There is no actual circuit. Just emotional circuitry inside a potato's brain.*
 
-![Schematic](https://drive.google.com/file/d/1EX3RcLQu0f2LLyakMWvsHGeOrA2jhPLY/view?usp=drive_link)
+[[Schematic](https://drive.google.com/file/d/1EX3RcLQu0f2LLyakMWvsHGeOrA2jhPLY/view?usp=drive_link)]
 *The schematic represents a loop of spiraling thoughts, triggered by simple questions like “What should I eat?”*
 
 # Build Photos
@@ -81,7 +81,8 @@ https://drive.google.com/file/d/1p1zshRBLdC2g6grOUXAE0aFZTwBkaCSY/view?usp=shari
 Step 2: Give potato feelings  
 Step 3: Make it panic on command*
 
-![Final](https://drive.google.com/file/d/1OXB4kpoSv5uE2KCqMQCeep1BJArFntRZ/view?usp=drive_link)
+
+ [[Final](https://drive.google.com/file/d/1OXB4kpoSv5uE2KCqMQCeep1BJArFntRZ/view?usp=drive_link)]
 🧷 Final Build Explanation
 The final build of Moody Potato is a chaotic yet polished single-page web app where users interact with a dramatic, emotionally unstable potato. It features:
 
