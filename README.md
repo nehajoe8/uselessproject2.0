@@ -44,7 +44,8 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](https://drive.google.com/file/d/1oAvJeODKNStiTvPvU1moKB7A0sWYFn9A/view?usp=drive_link)
+![Screenshot1]<img width="1919" height="1007" alt="Screenshot 2025-08-02 041019" src="https://github.com/user-attachments/assets/7016c27b-75d4-4553-9337-ce47db9d51f5" />
+
 *Ask Potato: Overthinking answers in action*
 
 ![Screenshot2](https://drive.google.com/file/d/15U3LWpB8AFZ-NWsDGJ2A2VG1oivMrMN5/view?usp=drive_link)
