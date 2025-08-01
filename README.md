@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+
 
 
 # Moody Potato 🥔💭 
@@ -44,7 +44,8 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1]<img width="1919" height="1007" alt="Screenshot 2025-08-02 041019" src="https://github.com/user-attachments/assets/7016c27b-75d4-4553-9337-ce47db9d51f5" />
+![Screenshot1]https://drive.google.com/file/d/1XmZiiMhMt4yltUZrQvNIcx1p_qL82qXv/view?usp=drive_link
+
 
 *Ask Potato: Overthinking answers in action*
 
