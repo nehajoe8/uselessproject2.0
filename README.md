@@ -87,7 +87,6 @@ This is a fully web-based emotional experience. No physical potatoes were harmed
 
 
 ### Schematic & Circuit
-![Circuit]
 *There is no actual circuit. Just emotional circuitry inside a potato's brain.*
 
 [[Schematic](https://drive.google.com/file/d/1EX3RcLQu0f2LLyakMWvsHGeOrA2jhPLY/view?usp=drive_link)]
@@ -104,9 +103,9 @@ Step 3: Make it panic on command*
 
 
  [[Final](https://drive.google.com/file/d/1OXB4kpoSv5uE2KCqMQCeep1BJArFntRZ/view?usp=drive_link)]
+ [[Link-to-application](https://moodypotato.vercel.app/)]
 🧷 Final Build Explanation
-The final build of Moody Potato is a chaotic yet polished single-page web app where users interact with a dramatic, emotionally unstable potato. It features:
-
+The finato l build of Moody Potato is a chaotic yet polished single-page web app where users interact with a dramatic, emotionally unstable potato. It features:
 🥔 "Ask Potato" — The core interaction where the potato gives spiraled-overthinking answers to any question you ask.
 
 😩 "Tell Me Something Worse" — When life feels bad, the potato reminds you it can always get worse — creatively and dramatically.
