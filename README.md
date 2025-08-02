@@ -77,7 +77,6 @@ Deploy via Vercel
 ## 📊 Diagrams
 
 ### 🌀 Workflow
-![Workflow]
 *Potato Workflow: You ask a question → Potato spirals → Chooses chaos → Responds with emotional instability*
 
 ---
@@ -88,7 +87,6 @@ This is a fully web-based emotional experience. No physical potatoes were harmed
 
 ### Schematic & Circuit
 *There is no actual circuit. Just emotional circuitry inside a potato's brain.*
-
 [[Schematic](https://drive.google.com/file/d/1EX3RcLQu0f2LLyakMWvsHGeOrA2jhPLY/view?usp=drive_link)]
 *The schematic represents a loop of spiraling thoughts, triggered by simple questions like “What should I eat?”*
 
