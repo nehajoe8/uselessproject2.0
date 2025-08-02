@@ -34,14 +34,35 @@ Potato-level energy only. No actual hardware. Just vibes.
 
 ### Implementation
 For Software:
-# Installation
+1. Create the React Project
+2. Add Your Code
+3. Add Tailwind CSS for styling
+4. Run Locally
+5. Push Code to GitHub
+6.  Deploy with Vercel (for Hackathon Demo)
+   
+### Installation
 npm install  
 
-# Run
+### Run
 npm run dev  
 
 ### Project Documentation
 For Software:
+1. Project Name: Moody Potato
+2. Description: A fun, interactive React app with a potato character that answers, runs away, and roasts the user.
+3. Key Features: Ask Potato → silly random answers
+Catch Me → mini chase game
+Roast Me → random funny roast
+Potato mood changes by time (morning/afternoon/night)
+4. Tech Stack: React (JavaScript)
+Tailwind CSS (styling)
+Vercel (deployment)
+5. How to Run Locally: npm install
+npm start
+6. Deployment: Push to GitHub
+Deploy via Vercel
+
 
 # Screenshots (Add at least 3)
 [[Screenshot1](https://drive.google.com/file/d/1XmZiiMhMt4yltUZrQvNIcx1p_qL82qXv/view?usp=sharing)]
@@ -61,18 +82,18 @@ For Software:
 
 ---
 
-## ⚙️ No Hardware Used  
+### ⚙️ No Hardware Used  
 This is a fully web-based emotional experience. No physical potatoes were harmed.
 
 
-# Schematic & Circuit
+### Schematic & Circuit
 ![Circuit]
 *There is no actual circuit. Just emotional circuitry inside a potato's brain.*
 
 [[Schematic](https://drive.google.com/file/d/1EX3RcLQu0f2LLyakMWvsHGeOrA2jhPLY/view?usp=drive_link)]
 *The schematic represents a loop of spiraling thoughts, triggered by simple questions like “What should I eat?”*
 
-# Build Photos
+### Build Photos
 https://drive.google.com/file/d/1XmZiiMhMt4yltUZrQvNIcx1p_qL82qXv/view?usp=sharing
 https://drive.google.com/file/d/1V_JRt_trnlVXu9HwZF1FGMLrJ__Goxv-/view?usp=sharing
 https://drive.google.com/file/d/1p1zshRBLdC2g6grOUXAE0aFZTwBkaCSY/view?usp=sharing
@@ -99,10 +120,10 @@ The final build of Moody Potato is a chaotic yet polished single-page web app wh
 [[Demo video link](https://drive.google.com/file/d/1hzGHuct4I0svlKnrCFKOOIkKYNt7iIwk/view?usp=drive_link)]
 *A walkthrough of Moody Potato spiraling, avoiding, and mildly helping.*
 
-# Additional Demos
+### Additional Demos
 [[Panic Button](https://drive.google.com/file/d/1y6RpFZxcH2j9nHHaZ0A7VrLIak34mM_Q/view?usp=drive_link)]
 
-## Team Contributions
+### Team Contributions
 - Dharithry Jyodish: Potato logic, Cursor dodge game, styling, mood mechanics,themes
 - Neha Joe: Question response engine, UI animations, emotional chaos,  Response randomizer, Rating the roast
 
